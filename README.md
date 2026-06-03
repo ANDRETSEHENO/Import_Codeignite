@@ -33,5 +33,5 @@ Une application CodeIgniter 4 professionnelle pour importer des utilisateurs en 
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-compte/import-codeigniter-csv.git
-   cd import-codeigniter-csv
+   git clone https://github.com/ANDRETSEHENO/Import_Codeignite.git
+   
