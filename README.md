@@ -28,6 +28,7 @@ Une application CodeIgniter 4 professionnelle pour importer des utilisateurs en 
   - `json`
   - `fileinfo`
 - Composer installé
+- Ne pas oublier dans creer la base de donne dans App/Database/base.sql
 
 ## Installation et Configuration
 
