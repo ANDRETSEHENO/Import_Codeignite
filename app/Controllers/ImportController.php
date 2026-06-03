@@ -12,7 +12,7 @@ class ImportController extends BaseController
         return view('index');
     }
 
-    public function upload()
+    public function upload() //sans validation inserte normal 
     {
         $model = new UserModel();
         $file = $this->request->getFile('csv_file');
